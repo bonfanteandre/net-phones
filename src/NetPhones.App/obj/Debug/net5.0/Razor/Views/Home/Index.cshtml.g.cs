@@ -26,8 +26,15 @@ using NetPhones.App.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "D:\andre\repos\net-phones\NetPhones\src\NetPhones.App\Views\_ViewImports.cshtml"
+using NetPhones.App.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"c2e845769cc0e248f78c9dceae87144ab355023b", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7953dd8e04ce29c34893924a18edb0e8edf881ec", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ee0cba7857f265d11847d03e1dafc365a91c6695", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
