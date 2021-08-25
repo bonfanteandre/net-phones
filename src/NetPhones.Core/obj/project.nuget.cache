@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "qvutWWyxEy+gTveisiBfYmF7mQNaaVD2gb8m2YQY4Tl5pXK081RvrxIurhz0a9TtLXQ92shGAGdu4kEao2OBeg==",
+  "dgSpecHash": "YrAVsv8YdpuxSDK+fJJ4mPrIM9dPxtlWXGek57LdgIJW0Sm46TzVnB3kdGS+KqRfnXsYLWpXgj62Mv2YppndWg==",
   "success": true,
   "projectFilePath": "D:\\andre\\repos\\net-phones\\NetPhones\\src\\NetPhones.Core\\NetPhones.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }

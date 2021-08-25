@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "qf7GpdxPKNgYq3xgmcl81b49AKiwEw8q3J3vtB2N8c0SckPJzk9o0KRGUuxOEFgLngIvnYkBscy12YuXqUwMjA==",
+  "dgSpecHash": "AP+ELDjGDTv44D3cAmNXMQq4LfoGY7sVRtvXtjnObKWiCro+5DWz3KkVEGnxiCRdGAvQE/tfVG264Zp64mvveQ==",
   "success": true,
   "projectFilePath": "D:\\andre\\repos\\net-phones\\NetPhones\\src\\NetPhones.App\\NetPhones.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\andre\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation\\10.3.3\\fluentvalidation.10.3.3.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.3\\fluentvalidation.aspnetcore.10.3.3.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.3\\fluentvalidation.dependencyinjectionextensions.10.3.3.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.7\\microsoft.aspnetcore.mvc.razor.extensions.5.0.7.nupkg.sha512",
     "C:\\Users\\andre\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.7\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.7.nupkg.sha512",

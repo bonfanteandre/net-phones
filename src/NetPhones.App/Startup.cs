@@ -6,6 +6,8 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using NetPhones.Core.Contracts.Repositories;
+using NetPhones.Core.Contracts.Services;
+using NetPhones.Core.Services;
 using NetPhones.Data.Context;
 using NetPhones.Data.Repositories;
 using System;
@@ -27,14 +29,20 @@ namespace NetPhones.App
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            // Application DbContext
             services.AddDbContext<NetPhonesContext>(options =>
             {
                 options.UseSqlServer(Configuration.GetConnectionString("NetPhonesConnection"));
             });
 
+            // AutoMapper
             services.AddAutoMapper(typeof(Startup));
 
+            // Repositories
             services.AddTransient<IContactsRepository, ContactsRepository>();
+
+            // Services
+            services.AddTransient<IContactsService, ContactsService>();
 
             services.AddControllersWithViews();
         }

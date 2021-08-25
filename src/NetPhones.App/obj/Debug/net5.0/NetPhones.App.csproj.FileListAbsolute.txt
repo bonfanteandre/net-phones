@@ -780,3 +780,6 @@ D:\andre\repos\net-phones\NetPhones\src\NetPhones.App\obj\Debug\net5.0\NetPhones
 D:\andre\repos\net-phones\NetPhones\src\NetPhones.App\obj\Debug\net5.0\NetPhones.App.genruntimeconfig.cache
 D:\andre\repos\net-phones\NetPhones\src\NetPhones.App\bin\Debug\net5.0\AutoMapper.dll
 D:\andre\repos\net-phones\NetPhones\src\NetPhones.App\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.App\bin\Debug\net5.0\FluentValidation.dll
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.App\bin\Debug\net5.0\FluentValidation.AspNetCore.dll
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.App\bin\Debug\net5.0\FluentValidation.DependencyInjectionExtensions.dll
