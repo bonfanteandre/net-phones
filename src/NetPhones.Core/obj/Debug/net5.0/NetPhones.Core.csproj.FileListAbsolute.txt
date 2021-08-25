@@ -1,0 +1,12 @@
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\bin\Debug\net5.0\NetPhones.Core.deps.json
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\bin\Debug\net5.0\NetPhones.Core.dll
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\bin\Debug\net5.0\ref\NetPhones.Core.dll
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\bin\Debug\net5.0\NetPhones.Core.pdb
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\obj\Debug\net5.0\NetPhones.Core.csproj.AssemblyReference.cache
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\obj\Debug\net5.0\NetPhones.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\obj\Debug\net5.0\NetPhones.Core.AssemblyInfoInputs.cache
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\obj\Debug\net5.0\NetPhones.Core.AssemblyInfo.cs
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\obj\Debug\net5.0\NetPhones.Core.csproj.CoreCompileInputs.cache
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\obj\Debug\net5.0\NetPhones.Core.dll
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\obj\Debug\net5.0\ref\NetPhones.Core.dll
+D:\andre\repos\net-phones\NetPhones\src\NetPhones.Core\obj\Debug\net5.0\NetPhones.Core.pdb
